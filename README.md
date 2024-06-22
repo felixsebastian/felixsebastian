@@ -5,9 +5,9 @@ I'm **Felix Sebastian**, full stack software developer.
 I build web apps from end to end with a love for clean code and human centred design. Currently working on creating a better world of work with [Culture Amp](https://www.cultureamp.com/). Based in **Melbourne, Australia** 🐨.
 
 You can find me on:
-- (GitHub)[https://github.com/felixsebastian]
-- (LinkedIn)[https://www.linkedin.com/in/felixs256]
-- (X)[https://twitter.com/felixs256]
+- [GitHub](https://github.com/felixsebastian)
+- [LinkedIn](https://www.linkedin.com/in/felixs256)
+- [X](https://twitter.com/felixs256)
 
 Or email me at [hi@felixsebastian.dev](mailto:hi@felixsebastian.dev).
 
