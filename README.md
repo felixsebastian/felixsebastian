@@ -8,7 +8,7 @@ You can find me on [X](https://twitter.com/felixs256) or email me at [hi@felixse
 
 ## Favourite tech
 
-I'm big on Python, Golang, Rust; event driven tools like Kafka and Flink; cool database technologies like Cassandra, Neo4j. GraphQL is cool sometimes. But at the end of the day, I will choose whichever technology fits the problem nicely.
+I'm big on Python, Golang, Rust; event driven tools like Kafka and Flink; cool database technologies like Cassandra, Neo4j. GraphQL is cool sometimes. I just like solving problems.
 
 ## Books I've read
 - I Heart Logs by Jay Kreps (2014)
