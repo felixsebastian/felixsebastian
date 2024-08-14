@@ -1,8 +1,8 @@
 # Hey there 👋
 
-I'm **Felix Sebastian**, full stack software developer.
+I'm **Felix Sebastian**, full stack software developer and creator of [LexiQuest](https://lexiquest.app)
 
-I build web apps from end to end with a love for clean code and human centred design. Currently working on creating a better world of work with [Culture Amp](https://www.cultureamp.com/). Based in **Melbourne, Australia** 🐨.
+I build web apps from end to end with a love for clean code and human centred design.
 
 You can find me on:
 - [GitHub](https://github.com/felixsebastian)
