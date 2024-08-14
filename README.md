@@ -4,10 +4,7 @@ I'm **Felix Sebastian**, full stack software developer and creator of [LexiQuest
 
 I build web apps from end to end with a love for clean code and human centred design.
 
-You can find me on:
-- [GitHub](https://github.com/felixsebastian)
-- [LinkedIn](https://www.linkedin.com/in/felixs256)
-- [X](https://twitter.com/felixs256)
+You can find me on [LinkedIn](https://www.linkedin.com/in/felixs256) or [X](https://twitter.com/felixs256).
 
 Or email me at [hi@felixsebastian.dev](mailto:hi@felixsebastian.dev).
 
