@@ -4,8 +4,6 @@ I'm **Felix Sebastian**, full stack software developer and creator of [LexiQuest
 
 I build web apps from end to end with a love for clean code and human centred design.
 
-You can find me on [X](https://twitter.com/felixs256) or email me at [hi@felixsebastian.dev](mailto:hi@felixsebastian.dev).
-
 ## Favourite tech
 
 I'm big on Python, Golang, Rust; event driven tools like Kafka and Flink; cool database technologies like Cassandra, Neo4j. GraphQL is cool sometimes. I just like solving problems.
