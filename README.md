@@ -9,6 +9,7 @@ I build web apps from end to end with a love for clean code and human centred de
 I'm big on Python, Golang, Rust; event driven tools like Kafka and Flink; cool database technologies like Cassandra, Neo4j. GraphQL is cool sometimes. I just like solving problems.
 
 ## Books I've read
+- **Thinking In Systems: A Primer** by Donella Meadows
 - **I Heart Logs** by Jay Kreps
 - **The DevOps Handbook** by Gene Kim et al.
 - **Designing Data Intensive Applications** by Martin Kleppmann
