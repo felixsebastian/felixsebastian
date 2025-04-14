@@ -1,8 +1,8 @@
-# Hey there 👋
+# Hello there 👋
 
 I'm **Felix Sebastian**, full stack software developer and creator of [LexiQuest](https://lexiquest.app).
 
-I build web apps from end to end with a love for clean code and human centred design.
+I build web apps with a love for clean code and human centred design.
 
 ## Favourite tech
 
