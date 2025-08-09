@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm **Felix Sebastian**, full stack software developer and creator of [LexiQuest](https://lexiquest.app).
+I'm **Felix Sebastian**, full stack dev, creator of [LexiQuest](https://lexiquest.app) and [zapper](https://zapper.felixsebastian.dev).
 
 I build web apps with a love for clean code and human centred design.
 
