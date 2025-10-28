@@ -6,7 +6,7 @@ I build web apps with a love for clean code and human centred design.
 
 ## Favourite tech
 
-I'm big on Python, Golang, Rust; event driven tools like Kafka and Flink; cool databases like Cassandra, Neo4j. GraphQL is cool sometimes. I just like solving problems.
+I'm big on TypeScript and Python; event driven tools like Kafka and Flink; cool databases like Cassandra, Neo4j. I just like solving problems.
 
 ## Books I've read
 - **Thinking In Systems: A Primer** by Donella Meadows
