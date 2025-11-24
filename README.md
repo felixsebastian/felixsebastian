@@ -9,6 +9,7 @@ I build web apps with a love for clean code and human centred design.
 I'm big on TypeScript and Python; event driven tools like Kafka and Flink; cool databases like Cassandra, Neo4j. Just like solving problems.
 
 ## Books I've read
+- **Code Health Guardian** by Artie Schevchenko
 - **Thinking In Systems: A Primer** by Donella Meadows
 - **I Heart Logs** by Jay Kreps
 - **The DevOps Handbook** by Gene Kim et al.
