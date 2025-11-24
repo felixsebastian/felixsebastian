@@ -23,6 +23,3 @@ I'm big on TypeScript and Python; event driven tools like Kafka and Flink; cool 
 - **Clean Architecture** by Robert C. Martin
 - **The Phoenix Project** by Gene Kim et al.
 - **Clean Code** by Robert C. Martin
-
-## Want to read
-- **Refactoring** by Martin Fowler & Kent Beck
