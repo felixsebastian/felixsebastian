@@ -10,6 +10,7 @@ I'm big on TypeScript and Python; event driven tools like Kafka and Flink; cool 
 
 ## Books I've read
 - **Code Health Guardian** by Artie Schevchenko
+- **Site Reliability Engineering** by Chris Jones
 - **Thinking In Systems: A Primer** by Donella Meadows
 - **I Heart Logs** by Jay Kreps
 - **The DevOps Handbook** by Gene Kim et al.
@@ -24,7 +25,6 @@ I'm big on TypeScript and Python; event driven tools like Kafka and Flink; cool 
 - **Clean Code** by Robert C. Martin
 
 ## Currently reading
-- **Site Reliability Engineering** by Chris Jones
 
 ## Want to read
 - **Refactoring** by Martin Fowler & Kent Beck
