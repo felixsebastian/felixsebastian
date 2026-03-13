@@ -1,5 +1,3 @@
-# Hello there 👋
-
 I'm **Felix Sebastian**, full stack dev, builder, vibe coder, creator of [HyperDoc](https://hyperdoc.dev) and [zapper](https://zapper.felixsebastian.dev).
 
 I build web apps with a love for clean code and human centred design.
