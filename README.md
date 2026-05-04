@@ -2,12 +2,6 @@ Builder, vibe coder.
 
 See my projects at [here](https://www.mp-lb.dev/).
 
-I build web apps with a love for clean code and human centred design.
-
-## Favourite tech
-
-I'm big on TypeScript and Python; event driven tools like Kafka and Flink; cool databases like Cassandra, Neo4j. Just like solving problems.
-
 ## Books I've read
 - **Beyond Vibe Coding** by Addy Osmani
 - **Code Health Guardian** by Artie Schevchenko
