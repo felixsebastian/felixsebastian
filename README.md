@@ -1,6 +1,6 @@
 Builder, vibe coder.
 
-See my projects at [here](https://www.mp-lb.dev/).
+See my projects [here](https://www.mp-lb.dev/).
 
 ## Books I've read
 - **Beyond Vibe Coding** by Addy Osmani
