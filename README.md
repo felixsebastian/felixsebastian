@@ -1,4 +1,4 @@
-Builder, vibe coder.
+Vibe coder.
 
 See my projects [here](https://www.mp-lb.dev/).
 
